@@ -1,0 +1,2 @@
+# privacypolicy
+InovaWM - privacy policy
